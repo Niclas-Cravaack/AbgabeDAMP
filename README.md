@@ -1,8 +1,7 @@
 # AbgabeDAMP
- Abgabe für DAMP
 
-Bedienungsanleitung
+operation manual
 
-1. .blend Datei öffnen
-2. Eigene Modelle der Gebäude in Collection "Gebäude" ziehen. Alternativ neue Collection anlegen und Gebäude die höher sein sollen in eigene Collection packen und in unterer Collection Info auswählen.
-3. Anpassung der Parameter: Distribute Points on Faces um Verteilung der Gebäude anzupassen, Random Value um Scaling zu beinflussen  
+1. Open .blend file
+2. Draw your own models of the buildings in the "Buildings" collection. Alternatively, create a new collection and pack buildings that should be higher into their own      collection and select Info in the lower collection.
+3. Adjustment of the parameters: Distribute Points on Faces to adjust the distribution of the buildings, Random Value to affect scaling
